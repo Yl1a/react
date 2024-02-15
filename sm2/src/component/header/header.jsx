@@ -4,7 +4,7 @@ import styles from "./header.module.css";
 const LINKS = [
   { name: "Главная", href: "/" },
   { name: "Библиотека", href: "/library" },
-  { name: "GitHub", href: "" },
+  { name: "GitHub", href: "https://github.com/Yl1a/react.gitgit " },
   { name: "Контакты", href: "/contact" },
 ];
 
